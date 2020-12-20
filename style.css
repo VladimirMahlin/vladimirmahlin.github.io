@@ -102,13 +102,12 @@ header, footer {
 .classifyOnClick img {
   width: 100%;
 }
-.center {
-  margin: auto;
-  width: 50%;
-  padding: 10px;
-  text-align: center;
+.container {
+  height: 200px;
+  position: relative;
+  border: 3px solid green;
 }
-.vertical-center {
+.center {
   margin: 0;
   position: absolute;
   top: 50%;
